@@ -43,7 +43,7 @@ namespace Api.Controllers
         [HttpPatch("{Id}")]
         public Produtos Delete(Guid Id, string nomeNovo)
         {
-            return new Produtos(); 
+            return new Produtos();
         }
     }
 }
