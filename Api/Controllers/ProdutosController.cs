@@ -13,7 +13,7 @@ namespace Api.Controllers
 
         public ProdutosController(ICriarProdutoUseCase criarProdutoUseCase)
         {
-            _criarProdutoUseCase = criarProdutoUseCase; 
+            _criarProdutoUseCase = criarProdutoUseCase;
         }
 
         [HttpPost]
