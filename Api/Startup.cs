@@ -24,8 +24,11 @@ namespace Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<ICriarProdutoUseCase, CriarProdutoUseCase>();
+            services.AddScoped<IVendedorUseCase, VendedorUseCase>();
+            services.AddScoped<IBuscarVendedoresUseCase, BuscarVendedoresUseCase>();
 
             services.AddSingleton<IProdutosRepositories, ProdutosRepositories>();
+            services.AddSingleton<IVendedorRepositories, VendedorRepositories>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
