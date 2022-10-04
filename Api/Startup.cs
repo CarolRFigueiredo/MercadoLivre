@@ -25,7 +25,7 @@ namespace Api
         {
             services.AddScoped<ICriarProdutoUseCase, CriarProdutoUseCase>();
 
-            services.AddScoped<IProdutosRepositories, ProdutosRepositories>();
+            services.AddSingleton<IProdutosRepositories, ProdutosRepositories>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
