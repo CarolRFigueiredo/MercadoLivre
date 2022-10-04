@@ -1,0 +1,17 @@
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\Borders.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\Entidades.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\Borders.pdb
+C:\Users\Eduardo Júnior\source\repos\UseCases\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Users\Eduardo Júnior\source\repos\UseCases\obj\Debug\net5.0\UseCases.pdb
