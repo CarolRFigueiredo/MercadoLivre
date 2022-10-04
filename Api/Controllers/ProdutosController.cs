@@ -35,13 +35,13 @@ namespace Api.Controllers
         }
 
         [HttpPut("{Id}")]
-        public Produtos Delete(Guid Id, Produtos produto)
+        public Produtos Put(Guid Id, Produtos produto)
         {
             return new Produtos();
         }
 
         [HttpPatch("{Id}")]
-        public Produtos Delete(Guid Id, string nomeNovo)
+        public Produtos Patch(Guid Id, string nomeNovo)
         {
             return new Produtos();
         }
