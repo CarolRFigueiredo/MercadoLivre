@@ -3,7 +3,7 @@ using System;
 
 namespace Borders.UseCases
 {
-    public interface IVendedorUseCase
+    public interface ICriarVendedorUseCase
     {
         public Guid Executar(Vendedor vendedor);
     }

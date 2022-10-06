@@ -24,7 +24,7 @@ namespace Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<ICriarProdutoUseCase, CriarProdutoUseCase>();
-            services.AddScoped<IVendedorUseCase, VendedorUseCase>();
+            services.AddScoped<ICriarVendedorUseCase, CriarVendedorUseCase>();
             services.AddScoped<IBuscarVendedoresUseCase, BuscarVendedoresUseCase>();
 
             services.AddSingleton<IProdutosRepositories, ProdutosRepositories>();

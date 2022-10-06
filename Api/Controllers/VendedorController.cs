@@ -10,10 +10,10 @@ namespace Api.Controllers
     [Route("[controller]")]
     public class VendedorController : ControllerBase
     {
-        private readonly IVendedorUseCase _criarVendedorUseCase;
+        private readonly ICriarVendedorUseCase _criarVendedorUseCase;
         private readonly IBuscarVendedoresUseCase _buscarVendedoresUseCase;
 
-        public VendedorController(IVendedorUseCase criarVendedorUseCase, IBuscarVendedoresUseCase buscarVendedoresUseCase)
+        public VendedorController(ICriarVendedorUseCase criarVendedorUseCase, IBuscarVendedoresUseCase buscarVendedoresUseCase)
         {
             _criarVendedorUseCase = criarVendedorUseCase;
             _buscarVendedoresUseCase = buscarVendedoresUseCase;

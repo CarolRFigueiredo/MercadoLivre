@@ -5,11 +5,11 @@ using System;
 
 namespace UseCases
 {
-    public class VendedorUseCase : IVendedorUseCase
+    public class CriarVendedorUseCase : ICriarVendedorUseCase
     {
         private readonly IVendedorRepositories _vendedorRepositories;
 
-        public VendedorUseCase(IVendedorRepositories vendedorRepositories)
+        public CriarVendedorUseCase(IVendedorRepositories vendedorRepositories)
         {
             _vendedorRepositories = vendedorRepositories;
         }
